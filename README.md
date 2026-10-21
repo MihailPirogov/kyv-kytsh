@@ -18,7 +18,7 @@
 
 <!-- PLACEHOLDER store badges: add RuStore / Google Play / Yandex Games links when the listings are live -->
 
-**Играть в браузере:** https://pirogovlab.ru/kyv-kytsh/ · **Страница игры:** https://pirogovlab.ru/kyv-kytsh-igra/
+**Играть в браузере:** https://pirogovlab.ru/kyv-kytsh/ · **Страница игры:** https://pirogovlab.ru/kyv-kytsh-igra/ · **Скачать APK:** https://pirogovlab.ru/kyv-kytsh/kyv-kytsh.apk
 
 ## Возможности
 - **500 уровней в 50 главах** (Видз — луг, Вӧр — лес, Парма — тайга, Эжва, Изьва, Печора, Кӧр — олень, Мойд — сказка, Сер — узор…), у каждой главы свой фон северной природы.

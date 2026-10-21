@@ -4,7 +4,7 @@
 |---|---|
 | Название | **Кыв кытш** (запасное: «Кыв кытш — коми слова») |
 | Пакет | `ru.pirogovlab.kyvkytsh` · 1.0.0 (versionCode 1) · minSdk 24 · targetSdk 36 |
-| Реклама | Yandex Mobile Ads — приложение в РСЯ **ещё не создано**, в сборке demo-юниты |
+| Реклама | Yandex Mobile Ads, приложение РСЯ **20259432** (R-M-20259432-1 баннер, -2 межстраничный, -3 с вознаграждением) |
 | Подпись | собственный ключ Кыв кытш (см. ANDROID_CHECKLIST.md) |
 | Политика | https://pirogovlab.ru/kyv-kytsh/privacy/ (выложить версию с рекламой как постоянную) |
 | Страница игры | https://pirogovlab.ru/kyv-kytsh-igra/ (подготовлена в site_stage/out, не опубликована) |
