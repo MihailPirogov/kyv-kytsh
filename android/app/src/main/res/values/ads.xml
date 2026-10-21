@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Yandex Mobile Ads (Рекламная сеть Яндекса) — the ONLY place with ad unit IDs for «Кыв кытш».
+     Units are NOT created yet: all three point to Yandex DEMO units (test ads, no revenue).
+     When the app + units are created in partner.yandex.ru, replace the first three values with R-M-<app>-1/-2/-3 and rebuild.
+     Debug builds always use the demo units. -->
+<resources>
+    <!-- TODO real units (partner.yandex.ru): banner / interstitial / rewarded -->
+    <string name="ad_banner_id" translatable="false">demo-banner-yandex</string>
+    <string name="ad_interstitial_id" translatable="false">demo-interstitial-yandex</string>
+    <string name="ad_rewarded_id" translatable="false">demo-rewarded-yandex</string>
+    <!-- Yandex demo units (always fill, no revenue) -->
+    <string name="ad_banner_demo_id" translatable="false">demo-banner-yandex</string>
+    <string name="ad_interstitial_demo_id" translatable="false">demo-interstitial-yandex</string>
+    <string name="ad_rewarded_demo_id" translatable="false">demo-rewarded-yandex</string>
+    <bool name="ads_age_restricted">false</bool>
+</resources>
